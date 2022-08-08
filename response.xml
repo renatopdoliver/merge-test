@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obterUrlSSOResponse xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <statusIntegracao>
+      <status>true</status>
+      <mensagem>Sucesso</mensagem>
+      <sessionId>147041689</sessionId>
+   </statusIntegracao>
+   <return xmlns:s01="http://integracaoexterna.ws.saa.fit.cbpi/">
+      <codigo>1</codigo>
+      <mensagem>Sucesso</mensagem>
+      <urlAmigavelCompleta>https://escoladevarejo-staging.sa.crossknowledge.com/sso/identity_field/login/login/07328375701/force_mobile/no/register/no/ts/2022-07-22T13:31:03Z-PT5760M/hash/62228a09d2ecac3c2b35c42937e92cc25d120bd744190bbd81999dd8a2ea6dbc96ecfe0b1ff70c9603c57164628d3948beaae23c31f7f964efec03d64f9feefb</urlAmigavelCompleta>
+   </return>
+</obterUrlSSOResponse>
