@@ -19,6 +19,8 @@ public class XmlToObject {
 			System.out.println(resp);
 			
 			System.out.println("Este é um novo código adicionado!");
+			
+			System.out.println("Este é um código da fetaure 2 de novo");
 
 		} catch (JAXBException e) {
 			e.printStackTrace();
