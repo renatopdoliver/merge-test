@@ -16,6 +16,8 @@ public class ObjectToXml {
 		Employee emp1 = new Employee(1, "Vimal Jaiswal", 50000);
 
 		marshallerObj.marshal(emp1, new FileOutputStream("employee.xml"));
+		
+		System.out.println("Este é um código da fetaure 2");
 
 	}
 }
