@@ -3,7 +3,8 @@ import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;  
 import javax.xml.bind.annotation.XmlRootElement;  
   
-@XmlRootElement  
+@XmlRootElement
+//Este é um código adicionado
 public class Employee {  
     private int id;  
     private String name;  
